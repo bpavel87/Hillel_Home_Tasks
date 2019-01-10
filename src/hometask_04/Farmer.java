@@ -7,5 +7,6 @@ public class Farmer {
         int perimetr = 2 * (lenght + with);
         int square = lenght * with;
         System.out.println(perimetr);
+        System.out.println(square);
     }
 }
