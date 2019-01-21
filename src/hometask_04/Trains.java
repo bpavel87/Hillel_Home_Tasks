@@ -12,6 +12,7 @@ public class Trains {
         } else {
             System.out.println("crash!");
         }
+
     }
 
 }
